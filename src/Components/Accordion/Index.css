@@ -1,0 +1,32 @@
+.accordion-icon {
+  background-color: #3fdbb1;
+  border-radius: 10px;
+  padding: 2px;
+  color: white;
+}
+
+.accordion-body {
+  padding-left: 30px !important;
+}
+.accordion-header {
+  font-weight: 400;
+  font-family: sans-serif;
+  padding-left: 10px !important;
+}
+
+.card{
+  /* border-left: none !important;
+  border-right: none !important;
+  border-radius: 0%; */
+  transition: transform 0.3s;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+
+
+}
+
+.card:hover{
+  box-shadow: 0 0 10px rgba(0,0,0,0);
+ 
+  transform: scale(1.05);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
