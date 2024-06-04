@@ -1,0 +1,37 @@
+.logo-text{
+    font-weight: 650;
+    margin: 0px 5px;
+    font-size: small;
+}
+
+.first-block-text{
+    line-height: 2rem;
+}
+
+.explore-btn{
+    background-color: blanchedalmond;
+    color: brown;
+    border: none !important;
+}
+.explore-btn:hover{
+    background-color: rgb(250, 122, 122);
+}
+
+.box-title-1{
+    font-weight: 700;
+    color: rgb(226, 101, 43);
+}
+.box-title-2{
+    font-weight: 700;
+    color: rgb(226, 147, 43);
+}
+.box-title-3{
+    font-weight: 700;
+    color: rgb(226, 43, 171);
+}
+.box-title-4{
+    font-weight: 700;
+    color: rgb(226, 43, 211);
+}
+
+
